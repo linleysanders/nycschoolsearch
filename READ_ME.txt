@@ -1,4 +1,4 @@
-
+*Created with the tutorials from Columbia University's LEDE program for data journalism by Jonathan Soma*
 
 THEMES
 You can have dark text on a light page or vice versa by choosing a theme. The CSS file has two classes named:
